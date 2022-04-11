@@ -7,7 +7,7 @@ Alchemy or Infura API network with Polygon
 
 
 ## Built With: 
-**Frontend**
+**Frontend** <br/>
 React/Next.js <br/>
 Tailwind.css
 
