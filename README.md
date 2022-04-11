@@ -12,7 +12,7 @@ React/Next.js <br/>
 Tailwind.css
 
 
-**Dependencies**
+**Dependencies**<br/>
 ERC-721 <br/>
 Ethers.js <br/>
 Solidity <br/>
@@ -21,7 +21,7 @@ Axios <br/>
 IPFS <br/>
 Web3Modal 
 
-**Network**
+**Network** <br/>
 Hardhat <br/>
 Polygon
 
