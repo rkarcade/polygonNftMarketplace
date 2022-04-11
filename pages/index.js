@@ -17,7 +17,7 @@ export default function Home() {
   
   async function loadNFTs() {
     //map over items from smart contract and fetch their token metadata
-    const provider = new ethers.providers.JsonRpcProvider("https://polygon-mumbai.g.alchemy.com/v2/5D7gSuNctx3kMc7tPWeO-UiUvi98UgCl")
+    const provider = new ethers.providers.JsonRpcProvider()
     const tokenContract = new ethers.Contract(nftaddress,NFT.abi, provider)
     const marketContract = new ethers.Contract(nftmarketaddress, Market.abi, provider)
     const data = await marketContract.fetchMarketItems()
