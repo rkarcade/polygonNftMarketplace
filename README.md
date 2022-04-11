@@ -8,21 +8,21 @@ Alchemy or Infura API network with Polygon
 
 ## Built With: 
 **Frontend**
-React/Next.js
+React/Next.js <br/>
 Tailwind.css
 
 
 **Dependencies**
-ERC-721
-Ethers.js
-Solidity 
-Hardhat
-Axios 
-IPFS
-Web3Modal
+ERC-721 <br/>
+Ethers.js <br/>
+Solidity <br/>
+Hardhat <br/>
+Axios <br/>
+IPFS <br/>
+Web3Modal 
 
 **Network**
-Hardhat
+Hardhat <br/>
 Polygon
 
 
