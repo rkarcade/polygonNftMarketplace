@@ -1,8 +1,8 @@
 # NFT Marketplace
 
 ## Requirement: 
-Node.js 
-Metamask wallet
+Node.js  <br/>
+Metamask wallet <br/>
 Alchemy or Infura API network with Polygon
 
 
